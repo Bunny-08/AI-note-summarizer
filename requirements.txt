@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+pymupdf
+fpdf==1.7.2
